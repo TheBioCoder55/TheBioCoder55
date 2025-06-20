@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👩‍💻 Hi, I'm The BioCoder 🌿💻
+# I'm The BioCoder 🌿💻
 
 Welcome to my GitHub profile! I come from a Life Sciences background and I'm currently diving deep into the world of data analytics and digital tools. This is where I share my journey of learning, creating, and exploring the intersection of science and data.
 
